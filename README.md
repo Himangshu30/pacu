@@ -2,7 +2,7 @@
 
 With this change files that where written to `./sessions/<session>` before are now output to `~/.local/share/pacu/<session>`.
 
-# Quick reference
+# Quick reference#
 - **Where to get help**:
 [the Rhino Security Labs Discord](https://discord.gg/8vFE7ucx9W), or [Stack Overflow](https://stackoverflow.com/search?tab=newest&q=pacu)
 
